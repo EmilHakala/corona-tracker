@@ -8,7 +8,7 @@ urls = (
     '/', 'index'
 )
 
-c_code = "DE"
+c_code = input("Input country code:")
 
 
 
